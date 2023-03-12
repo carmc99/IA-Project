@@ -9,7 +9,7 @@ vamos a usar el dataset de kaggle esta competición https://www.kaggle.com/datas
 | year                                      | Year of observation                                                                                          |
 | biofuel_consumption                       | Primary energy consumption from biofuels, measured in terawatt-hours                                         |
 | coal_consumption                          | Primary energy consumption from coal, measured in terawatt-hours                                            |
-| coal_production                          | Coal production, measured in terawatt-hours                                                                   |
+| coal_production                           | Coal production, measured in terawatt-hours                                                                   |
 | electricity_generation                    | Electricity generation, measured in terawatt-hours                                                           |
 | biofuel_electricity                       | Electricity generation from biofuels, measured in terawatt-hours                                             |
 | coal_electricity                          | Electricity generation from coal, measured in terawatt-hours                                                  |
@@ -25,13 +25,13 @@ vamos a usar el dataset de kaggle esta competición https://www.kaggle.com/datas
 | wind_electricity                          | Electricity generation from wind, measured in terawatt-hours                                                  |
 | fossil_fuel_consumption                   | Fossil fuel consumption, measured in terawatt-hours. This is the sum of primary energy from coal, oil and gas |
 | gas_consumption                           | Primary energy consumption from gas, measured in terawatt-hours                                              |
-| gas_production                           | Gas production, measured in terawatt-hours                                                                    |
+| gas_production                            | Gas production, measured in terawatt-hours                                                                    |
 | hydro_consumption                         | Primary energy consumption from hydropower, measured in terawatt-hours                                        |
 | low_carbon_electricity                    | Electricity generation from low-carbon sources, measured in terawatt-hours. This is the sum of electricity gener|
 | low_carbon_consumption                    | Primary energy consumption from low-carbon sources, measured in terawatt-hours                                |
 | nuclear_consumption                       | Primary energy consumption from nuclear power, measured in terawatt-hours                                      |
 | oil_consumption                           | Primary energy consumption from oil, measured in terawatt-hours                                                |
-| oil_production                           | Oil production, measured in terawatt-hours                                                                    |
+| oil_production                            | Oil production, measured in terawatt-hours                                                                    |
 | other_renewable_consumption               | Primary energy consumption from other renewables, measured in terawatt-hours                                  |
 | population                                | Total population                                                                                             |
 | renewables_consumption                    | Primary energy consumption from renewables, measured in terawatt-hours                                        |
