@@ -1,9 +1,9 @@
 ### World energy consumption
 
-Dado el consumo energÃ©tico del mundo y la producciÃ³n de energÃ­a proveniente de distintas fuentes. Vamos a predecir la tendencia del crecimiento de la producciÃ³n y el consumo de energÃ­a a nivel mundial o por paÃ­s..
-vamos a usar el dataset de kaggle esta competiciÃ³n https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption, que tiene 17433 muestras y las siguientes columnas representativas:
+Dado el consumo energético del mundo y la producción de energía proveniente de distintas fuentes. Vamos a predecir la tendencia del crecimiento de la producción y el consumo de energía a nivel mundial o por país..
+vamos a usar el dataset de kaggle esta competición https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption, que tiene 17433 muestras y las siguientes columnas representativas:
 
-| Columna                             | DescripciÃ³n                                                                    |
+| Columna                             | Descripción                                                                    |
 |:-----------------------------------:|:------------------------------------------------------------------------------:|
 | iso_code                            | ISO 3166-1 alpha-3 three-letter country codes                                  |
 | country                             | Geographic location                                                            |
@@ -38,6 +38,6 @@ vamos a usar el dataset de kaggle esta competiciÃ³n https://www.kaggle.com/datas
 
 
 
-Para predecir la tendencia del crecimiento de la producciÃ³n y el consumo de energÃ­a a nivel mundial o por paÃ­s se utilizarÃ¡ la mÃ©trica de machine learning del error medio absoluto (MAE).
-Una mÃ©trica de desempeÃ±o para evaluar la tendencia del crecimiento de la producciÃ³n y el consumo de energÃ­a a nivel mundial o por paÃ­s podrÃ­a ser la tasa de crecimiento anual compuesta (CAGR) de la producciÃ³n y el consumo de energÃ­a en un determinado perÃ­odo de tiempo. La CAGR es una medida del rendimiento de una inversiÃ³n durante un perÃ­odo especÃ­fico, que representa la tasa de crecimiento anual promedio de una inversiÃ³n durante ese perÃ­odo. En el caso de la producciÃ³n y el consumo de energÃ­a, la CAGR se puede calcular para una regiÃ³n geogrÃ¡fica determinada (por ejemplo, un paÃ­s, un continente, el mundo) y para un perÃ­odo de tiempo especÃ­fico. Una CAGR positiva indicarÃ­a un crecimiento sostenido de la producciÃ³n y el consumo de energÃ­a en el tiempo, mientras que una CAGR negativa indicarÃ­a una disminuciÃ³n en la producciÃ³n y el consumo de energÃ­a.
+Para predecir la tendencia del crecimiento de la producción y el consumo de energía a nivel mundial o por país se utilizará la métrica de machine learning del error medio absoluto (MAE).
+Una métrica de desempeño para evaluar la tendencia del crecimiento de la producción y el consumo de energía a nivel mundial o por país podría ser la tasa de crecimiento anual compuesta (CAGR) de la producción y el consumo de energía en un determinado período de tiempo. La CAGR es una medida del rendimiento de una inversión durante un período específico, que representa la tasa de crecimiento anual promedio de una inversión durante ese período. En el caso de la producción y el consumo de energía, la CAGR se puede calcular para una región geográfica determinada (por ejemplo, un país, un continente, el mundo) y para un período de tiempo específico. Una CAGR positiva indicaría un crecimiento sostenido de la producción y el consumo de energía en el tiempo, mientras que una CAGR negativa indicaría una disminución en la producción y el consumo de energía.
 
