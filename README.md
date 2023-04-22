@@ -37,7 +37,14 @@ vamos a usar el dataset de kaggle esta competición https://www.kaggle.com/datase
 | gdp                                 | Total real gross domestic product, inflation-adjusted                          |
 
 
-
-Para predecir la tendencia del crecimiento de la producción y el consumo de energía a nivel mundial o por país se utilizará la métrica de machine learning del error medio absoluto (MAE).
-Una métrica de desempeño para evaluar la tendencia del crecimiento de la producción y el consumo de energía a nivel mundial o por país podría ser la tasa de crecimiento anual compuesta (CAGR) de la producción y el consumo de energía en un determinado período de tiempo. La CAGR es una medida del rendimiento de una inversión durante un período específico, que representa la tasa de crecimiento anual promedio de una inversión durante ese período. En el caso de la producción y el consumo de energía, la CAGR se puede calcular para una región geográfica determinada (por ejemplo, un país, un continente, el mundo) y para un período de tiempo específico. Una CAGR positiva indicaría un crecimiento sostenido de la producción y el consumo de energía en el tiempo, mientras que una CAGR negativa indicaría una disminución en la producción y el consumo de energía.
+El objetivo de este proyecto es predecir si un país tiene una alta o baja proporción de energía
+renovable en su producción total de energía. Se utilizará un conjunto de datos sobre el
+consumo de energía en todo el mundo. El conjunto de datos contiene varias variables,
+incluyendo la producción y el consumo de energía renovable, así como la producción y el
+consumo de otras fuentes de energía.
+Se ha cambiado el problema al predecir si un país tiene o no un alto porcentaje de energía
+renovable en su producción total de energía. Por lo tanto, la métrica de desempeño que se
+utilizará ahora será la precisión, el recall, la F1-score y el área bajo la curva ROC (AUC), en
+lugar del error medio absoluto (MAE) utilizado anteriormente para predecir la tendencia del
+crecimiento de la producción y el consumo de energía a nivel mundial.
 
