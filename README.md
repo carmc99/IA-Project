@@ -1,9 +1,11 @@
 ### World energy consumption
 
-Dado el consumo energético del mundo y la producción de energía proveniente de distintas fuentes. Vamos a predecir la tendencia del crecimiento de la producción y el consumo de energía a nivel mundial o por país..
-vamos a usar el dataset de kaggle esta competición https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption, que tiene 17433 muestras y las siguientes columnas representativas:
+Dado el consumo energÃ©tico del mundo y la producciÃ³n de energÃ­a proveniente de distintas fuentes. Vamos a predecir la tendencia del crecimiento de la producciÃ³n y el consumo de energÃ­a a nivel mundial o por paÃ­s..
+vamos a usar el dataset de kaggle esta competiciÃ³n https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption, que tiene 17433 muestras y las siguientes columnas representativas:
 
-| Columna                             | Descripción                                                                    |
+## Datos
+
+| Columna                             | DescripciÃ³n                                                                    |
 |:-----------------------------------:|:------------------------------------------------------------------------------:|
 | iso_code                            | ISO 3166-1 alpha-3 three-letter country codes                                  |
 | country                             | Geographic location                                                            |
@@ -37,6 +39,7 @@ vamos a usar el dataset de kaggle esta competición https://www.kaggle.com/datase
 | gdp                                 | Total real gross domestic product, inflation-adjusted                          |
 
 
+<<<<<<< HEAD
 El objetivo de este proyecto es predecir si un país tiene una alta o baja proporción de energía
 renovable en su producción total de energía. Se utilizará un conjunto de datos sobre el
 consumo de energía en todo el mundo. El conjunto de datos contiene varias variables,
@@ -47,4 +50,5 @@ renovable en su producción total de energía. Por lo tanto, la métrica de desempe
 utilizará ahora será la precisión, el recall, la F1-score y el área bajo la curva ROC (AUC), en
 lugar del error medio absoluto (MAE) utilizado anteriormente para predecir la tendencia del
 crecimiento de la producción y el consumo de energía a nivel mundial.
+
 
