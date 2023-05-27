@@ -39,16 +39,15 @@ vamos a usar el dataset de kaggle esta competici√≥n https://www.kaggle.com/datas
 | gdp                                 | Total real gross domestic product, inflation-adjusted                          |
 
 
-<<<<<<< HEAD
-El objetivo de este proyecto es predecir si un paÌs tiene una alta o baja proporciÛn de energÌa
-renovable en su producciÛn total de energÌa. Se utilizar· un conjunto de datos sobre el
-consumo de energÌa en todo el mundo. El conjunto de datos contiene varias variables,
-incluyendo la producciÛn y el consumo de energÌa renovable, asÌ como la producciÛn y el
-consumo de otras fuentes de energÌa.
-Se ha cambiado el problema al predecir si un paÌs tiene o no un alto porcentaje de energÌa
-renovable en su producciÛn total de energÌa. Por lo tanto, la mÈtrica de desempeÒo que se
-utilizar· ahora ser· la precisiÛn, el recall, la F1-score y el ·rea bajo la curva ROC (AUC), en
-lugar del error medio absoluto (MAE) utilizado anteriormente para predecir la tendencia del
-crecimiento de la producciÛn y el consumo de energÌa a nivel mundial.
+Objetivo
+
+El objetivo de este proyecto es predecir si un pais tiene una alta o baja proporcion de energia
+renovable en su produccion total de energia. Se utilizaron un conjunto de datos sobre el
+consumo de energia en todo el mundo. El conjunto de datos contiene varias variables,
+incluyendo la produccion y el consumo de energia renovable, asi como la produccion y el
+consumo de otras fuentes de energia.
+Se ha cambiado el problema al predecir si un pais tiene o no un alto porcentaje de energia
+renovable en su produccion total de energia. Por lo tanto, la metrica de desempe√±o que se
+utilizaron ahora sera la precision, el recall, la F1-score y el area bajo la curva ROC (AUC), en lugar del error medio absoluto (MAE) utilizado anteriormente para predecir la tendencia del crecimiento de la produccion y el consumo de energia a nivel mundial.
 
 
