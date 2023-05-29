@@ -52,5 +52,8 @@ utilizaron ahora sera la precision, el recall, la F1-score y el area bajo la cur
 
 
 ### Video entrega final
-[![Video1](https://share.gifyoutube.com/KzB6Gb.gif)](https://raw.githubusercontent.com/carmc99/IA-Project/master/Video_entrega_final.mp4)
+
+https://github.com/carmc99/IA-Project/assets/42100916/7d81c251-0019-40e6-896c-aca8732df42a
+
+
 
