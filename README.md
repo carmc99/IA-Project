@@ -51,3 +51,6 @@ renovable en su produccion total de energia. Por lo tanto, la metrica de desempe
 utilizaron ahora sera la precision, el recall, la F1-score y el area bajo la curva ROC (AUC), en lugar del error medio absoluto (MAE) utilizado anteriormente para predecir la tendencia del crecimiento de la produccion y el consumo de energia a nivel mundial.
 
 
+### Video entrega final
+[![Video1](https://share.gifyoutube.com/KzB6Gb.gif)](https://raw.githubusercontent.com/carmc99/IA-Project/master/Video_entrega_final.mp4)
+
